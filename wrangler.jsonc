@@ -1,7 +1,10 @@
 {
+	"name": "denil-library",
+	"main": "worker.js",
+	"compatibility_date": "2026-04-10",
 	"r2_buckets": [
 		{
-			"binding": "MY_BUCKET", // <~ valid JavaScript variable name
+			"binding": "MY_BUCKET",
 			"bucket_name": "libros-jdts"
 		}
 	]
